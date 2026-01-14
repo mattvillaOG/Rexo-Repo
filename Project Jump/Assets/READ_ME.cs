@@ -5,6 +5,11 @@ using UnityEngine;
 public class READ_ME : MonoBehaviour
 { /**/
 
+    /*Wednesday Jan 14, 2026
+ the goal now is to restore teh project to its original release verion, and
+add an updated log to appease the AppleStore lords who say i need to update the gaem
+ */
+
     /*Wednesday March 12, 2025.
      Right now the gameplay is fully functional. Rexo moves forward along the Y axis
     and the Level spawns in front of him as he runs until colliding with the level.
@@ -31,5 +36,6 @@ public class READ_ME : MonoBehaviour
     unlock new content that will keep them interested
     explore more mechanics that expand on the concept of the game
     demonstrate differnt interpritatons of the intent*/
+
 
 }

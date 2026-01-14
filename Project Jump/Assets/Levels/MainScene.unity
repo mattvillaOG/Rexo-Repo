@@ -579,7 +579,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24b44bd1044bb4c2e90dd32d4884d70e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pooledObject: {fileID: 4666271266081302525, guid: ddce0c8599b2d48fba5e5d82879522d9,
+  pooledObject: {fileID: 1611374894430937938, guid: 0523cb9e5c6344f95abf23ea57797750,
     type: 3}
   poolAmount: 15
 --- !u!4 &378552963
@@ -1029,7 +1029,7 @@ Transform:
   m_GameObject: {fileID: 587241809}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.2944476, y: -0.12544374, z: -1.2551811}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1790,7 +1790,7 @@ MonoBehaviour:
   thePlatform: {fileID: 5113256277882448428, guid: e924c4b9024534e8d9517a9fdef63400,
     type: 3}
   generationPoint: {fileID: 723899686}
-  distanceBetween: 2
+  distanceBetween: 1
   distanceBetweenMin: 1
   distanceBetweenMax: 3
   theObjectPools:
@@ -2213,7 +2213,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.3092, y: -4.237, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 0.178662}
+  m_LocalScale: {x: 3, y: 3, z: 0.178662}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1959698754}
@@ -2282,7 +2282,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 2.03125, y: 2}
+    oldSize: {x: 0.5078125, y: 0.5}
     newSize: {x: 0.5078125, y: 0.5}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2380,7 +2380,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 9512d6df5c84b49aaaf63340c5dcb5bb, type: 3}
+  m_audioClip: {fileID: 8300000, guid: ad14b9d64c5404ba69ed20a3fa28aedf, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1.6
@@ -2755,7 +2755,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 3e0c8184092a44e3c82f4ebde959eff6, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 02b16d78ff4f14022bd6d573ae1e4e9c, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -2962,15 +2962,15 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: df25dea625c3c4b8385893829d4210dd, type: 3}
+  m_audioClip: {fileID: 8300000, guid: d530b0a8fdb734fbcac888f24eaaabed, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.3
+  m_Volume: 0.595
   m_Pitch: 1
   Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 166
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
