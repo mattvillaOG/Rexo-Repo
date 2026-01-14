@@ -1951,8 +1951,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 131.08, y: 210}
-  m_SizeDelta: {x: 362.167, y: 68.012085}
+  m_AnchoredPosition: {x: 103.580185, y: 206}
+  m_SizeDelta: {x: 417.1666, y: 68.0121}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1220704930
 MonoBehaviour:
@@ -1987,7 +1987,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u24B82022 Villa"
+  m_Text: "\u24B82022-2026 Villa"
 --- !u!222 &1220704931
 CanvasRenderer:
   m_ObjectHideFlags: 0
